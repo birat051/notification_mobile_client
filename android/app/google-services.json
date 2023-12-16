@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "838899688555",
+    "project_id": "closed-network-dev",
+    "storage_bucket": "closed-network-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838899688555:android:f93f56aa5823202c2ebd2e",
+        "android_client_info": {
+          "package_name": "com.cn_test.notification_mobile_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSzWxI9wIurqJZaRJ8uRoVT4mjzeX8sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838899688555:android:59d70ebe9d0e16f02ebd2e",
+        "android_client_info": {
+          "package_name": "com.example.notification_mobile_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSzWxI9wIurqJZaRJ8uRoVT4mjzeX8sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
